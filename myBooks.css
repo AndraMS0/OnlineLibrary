@@ -1,0 +1,33 @@
+table, th, td {
+  border: 1px solid;
+}
+table {
+  width: 80%;
+  margin-left:auto; margin-right:auto;
+  border-collapse: collapse;
+  color:
+}
+td {
+  text-align: center;
+}
+tr:hover 
+{
+	background-color: #BDB76B;
+}
+tr {
+  height: 50px;
+  color:white;
+}
+
+div{
+	padding-bottom: 50px;
+	padding-top: 5px;
+}
+body{
+	background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(my.jpg);
+	background-position: right;
+	background-size:cover;
+	
+	
+	
+}

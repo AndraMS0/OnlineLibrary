@@ -1,0 +1,19 @@
+.menu {
+	width:200px;
+	height:150px;
+	
+}
+.menu li {
+	background-color: #696969;
+	display:block;
+	padding:10px;
+	text-decoration:none;
+	font-size: 20px;
+}
+.menu a:hover{
+	background-color: #ccc;
+}
+.menu a.active{
+	background-color: #04AA6D;
+	color: white;
+}

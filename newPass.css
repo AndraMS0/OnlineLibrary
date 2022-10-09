@@ -1,0 +1,27 @@
+input {
+  width: 50%;
+  
+  
+}
+label {
+  color: white;
+  padding: 6px; 
+}
+body{
+	background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(bcg.jpg);
+	background-size: cover;
+	background-position: center top;
+}
+
+.aliniere{
+	margin-top:50px;
+	display:flex;
+	justify-content:space-evenly;
+}
+
+input[type=password] {
+  width: 100%;
+  padding: 10px 10px;
+  margin: 8px 0;
+ 
+}
